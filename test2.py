@@ -1,3 +1,3 @@
 print('abc')
 print('aaaaa')
-ProcessLookupError
+print('c')
